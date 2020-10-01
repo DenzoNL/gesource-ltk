@@ -4,9 +4,9 @@ throwing_knives         100             0
 // klobbs               200             0
 // magnum_arena         200             0
 golden_gun_arena        200             1
-rocket_arena            400             1
+rocket_arena            500             1
 // pistols_classic      200             1
-pistols                 600             1
+pistols                 300             1
 rifles                  500             2
 full_automatics         400             2
 automatics              400             2
