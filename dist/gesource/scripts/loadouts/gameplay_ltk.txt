@@ -1,0 +1,19 @@
+//WEAPON                WEIGHT          GROUP
+slappers                100             0
+throwing_knives         100             0
+// klobbs               200             0
+// magnum_arena         200             0
+golden_gun_arena        200             1
+rocket_arena            400             1
+// pistols_classic      200             1
+pistols                 600             1
+rifles                  500             2
+full_automatics         400             2
+automatics              400             2
+//timed_mines           400             2
+shotguns                200             2
+//pure_random           400             2
+sniper_rifle_arena      400             2
+lasers                  200             2
+assault_weapons         300             2
+proximity_mines         100             2
